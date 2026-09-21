@@ -1,2 +1,2 @@
 
-![Topo](./images/Topology.jpg)
+![Topo](./images/Topology.png)
