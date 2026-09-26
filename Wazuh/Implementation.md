@@ -2,7 +2,7 @@
 
 ## Overview
 
-Wazuh was deployed within the **TheCoinSociety** lab to provide centralized security monitoring for Windows and Linux endpoints.
+Wazuh was deployed within the **TheCoinSociety** lab to provide centralised security monitoring for Windows and Linux endpoints.
 
 The deployment used an **all-in-one Wazuh server**, with the Wazuh Manager, Indexer, and Dashboard running on a single Ubuntu Server. Wazuh agents were then deployed to endpoints within the internal network.
 
@@ -40,7 +40,7 @@ chmod +x wazuh-install.sh
 sudo ./wazuh-install.sh -a
 ```
 
-This deployed the Wazuh components required for centralized monitoring.
+This deployed the Wazuh components required for centralised monitoring.
 
 **Evidence:**
 
@@ -128,7 +128,7 @@ The environment showed three active agents:
 
 ## Result
 
-Wazuh was successfully deployed as a centralized SIEM platform within the TheCoinSociety lab.
+Wazuh was successfully deployed as a centralised SIEM platform within the TheCoinSociety lab.
 
 The Wazuh Manager, Indexer, and Dashboard were operational, and Windows and Linux endpoints were successfully enrolled and communicating with the server.
 
