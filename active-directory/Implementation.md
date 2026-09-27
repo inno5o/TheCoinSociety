@@ -109,8 +109,7 @@ domain clients continued using the Domain Controller for DNS.
 
 ### Evidence
 
-> **Screenshot:** DNS/PowerShell testing confirming name resolution
-> through the Domain Controller.
+![DNS](./images/AD15.png)
 
 ------------------------------------------------------------------------
 
@@ -132,11 +131,9 @@ rather than individually on each workstation.
 
 ### Evidence
 
-> **Screenshot:** Active Directory Users and Computers showing user
-> account creation.
+![UserCreation](./images/AD20.png)
 
-> **Screenshot:** Active Directory Users and Computers showing
-> configured users/groups.
+![Users](./images/AD32.png)
 
 ------------------------------------------------------------------------
 
@@ -158,12 +155,12 @@ workstation was restarted.
 
 ### Evidence
 
-> **Screenshot:** Windows 10 domain configuration.
+![DomainJoinConfig](./images/AD18.png)
 
-> **Screenshot:** Successful domain join confirmation.
+![DomainJoin](./images/AD23.png)
 
-> **Screenshot:** Windows 10 System Properties showing membership of
-> `thecoinsociety.local`.
+![Confirm](./images/AD28.png)
+
 
 ------------------------------------------------------------------------
 
@@ -178,7 +175,10 @@ Controller and authenticate domain users.
 
 ### Evidence
 
-> **Screenshot:** Windows 10 domain-user login screen.
+![Login](./images/AD26.png)
+
+![Log-Intro](./images/AD27.png)
+
 
 ------------------------------------------------------------------------
 
