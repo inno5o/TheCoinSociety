@@ -47,7 +47,6 @@ sudo suricata-update
 
 This provided the IDS with an updated ruleset for identifying suspicious network activity.
 
-> **Screenshot:** Successful Suricata rule update.
 
 ---
 
@@ -66,8 +65,7 @@ The configuration was validated before restarting the service.
 ```bash
 sudo suricata -T -c /etc/suricata/suricata.yaml
 ```
-
-> **Screenshot:** `suricata.yaml` configuration and successful configuration test.
+![Topo](./images/image_2.png)
 
 ---
 
@@ -85,7 +83,7 @@ The required interface was then configured within Suricata.
 
 This allowed Suricata to inspect traffic traversing the monitored network segment.
 
-> **Screenshot:** Network interface configuration.
+![Topo](./images/image_4.png)
 
 ---
 
@@ -100,7 +98,7 @@ sudo systemctl status suricata
 
 The service was confirmed to be running successfully.
 
-> **Screenshot:** Active Suricata service.
+![Topo](./images/Suricata_3.png)
 
 ---
 
@@ -114,7 +112,9 @@ sudo tail -f /var/log/suricata/fast.log
 
 Network activity was generated from systems within the lab environment to confirm that Suricata was inspecting traffic and producing alerts.
 
-> **Screenshot:** Alerts generated in `fast.log`.
+![Topo](./images/Screenshot_(148).png)
+
+![Topo](./images/image_6.png)
 
 ---
 
