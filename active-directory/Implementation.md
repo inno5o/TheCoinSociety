@@ -71,14 +71,11 @@ to complete the promotion.
 
 ### Evidence
 
-> **Screenshot:** AD DS Configuration Wizard showing the new
-> forest/domain configuration.
+![NewForest](./images/AD6.png)
 
-> **Screenshot:** Prerequisite check confirming that the server was
-> ready for promotion.
+![NewForest](./images/AD10.png)
 
-> **Screenshot:** Windows Server login after successful Domain
-> Controller promotion.
+![Success](./images/AD11.png)
 
 ------------------------------------------------------------------------
 
