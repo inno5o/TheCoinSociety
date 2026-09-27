@@ -59,21 +59,8 @@ Detailed configuration and supporting screenshots are available in the **Impleme
 
 Active Directory operates as part of the wider TheCoinSociety infrastructure rather than as an isolated system.
 
-```text
-                    TheCoinSociety Network
-                           |
-                     TCS-Router
-                    172.16.1.1
-                           |
-                      TCS-Switch
-                           |
-        +------------------+------------------+
-        |                  |                  |
-   Windows Server      Windows 10       Ubuntu Server
-    172.16.1.6        Domain Client      172.16.1.4
-     AD / DNS                           Wazuh / Zabbix
-                                         / Suricata
-```
+![Topo](./images/Topology.png)
+
 
 The Windows Server provides **AD DS and DNS**, while Windows 10 operates as a domain member. The Ubuntu Server hosts the other monitoring and security platforms used within the wider lab.
 
