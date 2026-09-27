@@ -32,8 +32,9 @@ consistently locate the Domain Controller and DNS service.
 
 ### Evidence
 
-> **Screenshot:** Windows Server network configuration showing the
-> static IP address.
+![Topo](./images/AD16.png)
+
+![Topo](./images/AD1.png)
 
 ------------------------------------------------------------------------
 
