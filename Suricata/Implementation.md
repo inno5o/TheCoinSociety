@@ -14,7 +14,7 @@ An Ubuntu Server virtual machine was deployed and connected to the appropriate n
 
 Network connectivity was verified before installing Suricata.
 
-> **Screenshot:** Suricata server within the GNS3 topology / network configuration.
+![Topo](./images/20250612_201249.jpg)
 
 ---
 
