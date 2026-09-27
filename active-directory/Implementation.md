@@ -48,8 +48,7 @@ installed on the Windows Server.
 
 ### Evidence
 
-> **Screenshot:** Server Manager showing the Active Directory Domain
-> Services role installation.
+![Roles](./images/AD3.png)
 
 ------------------------------------------------------------------------
 
