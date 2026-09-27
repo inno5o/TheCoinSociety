@@ -33,8 +33,7 @@ The installed version and service status were checked using:
 suricata --build-info
 sudo systemctl status suricata
 ```
-
-> **Screenshot:** Successful Suricata installation and service status.
+![Topo](./images/Screenshot_(146).png)
 
 ---
 
