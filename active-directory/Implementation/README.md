@@ -32,9 +32,9 @@ consistently locate the Domain Controller and DNS service.
 
 ### Evidence
 
-![Topo](./images/AD16.png)
+![IP](./images/AD16.png)
 
-![Topo](./images/AD1.png)
+![IP2](./images/AD1.png)
 
 ------------------------------------------------------------------------
 
